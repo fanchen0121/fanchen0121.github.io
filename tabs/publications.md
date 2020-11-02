@@ -8,7 +8,5 @@ title: Publication List
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+32. Y. Cao, X. Su, **F. Meng** , Origin of the Distinct Thermoelectric Transport Properties of Chalcopyrite ABTe2 (A = Cu, Ag; B = Ga, In) 
 
-
-may be rename the tag to CV or add a publication list
