@@ -7,18 +7,6 @@ layout: page
 # MIT Licensed
 ---
 
-<html>
-<body>
-
-<h2> <font face="arial" size="5" >Welcom to Fanchen Meng's personal website </font> </h2>
-
-<p>I am a PhD candidate in computational/theoretical condensed matter physics at Clemson University. My research intrestes combine electorn-phonon interactions limited electrical transport properties and phonon-phonon interactions limited phonon transport properties. For the details of my research project please refer to my <a href="{{ site.baseurl }}/tabs/CV"> CV </a> and <a href="{{ site.baseurl }}/tabs/publications"> publication list </a>
-</p>
-
-</body>
-</html>
-
-
 
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
