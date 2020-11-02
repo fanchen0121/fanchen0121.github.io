@@ -7,7 +7,6 @@ layout: page
 # MIT Licensed
 ---
 
-
 <html>
 <body>
 
@@ -18,6 +17,8 @@ layout: page
 
 </body>
 </html>
+
+
 
 {% assign pinned = site.posts | where_exp: "item", "item.pin == true"  %}
 {% assign default = site.posts | where_exp: "item", "item.pin != true"  %}
