@@ -27,7 +27,7 @@
   name: "Publication List"
   icon: "fas fa-info"
   path: tabs
-  url: publication_list
+  url: publications
 -
   name: "CV"
   icon: "fas fa-info"
