@@ -16,7 +16,7 @@ description: >-                        # used by seo meta and the atom feed
   Personal website with resume and some blog on understanding of physics.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: https://fanchen0121.github.io
+url: 'https://fanchen0121.github.io'
 
 author: Fanchen Meng                  # change to your full name
 
